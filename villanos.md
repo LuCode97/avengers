@@ -2,3 +2,4 @@
 
 * Doom
 * Red Skull
+* Dr Simi
